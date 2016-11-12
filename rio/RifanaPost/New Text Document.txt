@@ -1,0 +1,22 @@
+When darkness is taking over. The stars are dying.
+Help this project to revive the dying stars.
+Move your space ship. Avoid Enemies. Shoot starlight bullet into a dying star.
+#revivethestars
+#notaspaceshootergame
+
+This game was planned to enter a competition.
+But was canceled for some reasons.
+
+Rifana Project is the most complex game I ever created yet.
+features:
+- Virtual-Analog Joysctick Control
+- Select Characters
+- Option Menu (Sound, Sensitivity, etc)
+- Tutorial
+- Multiple Game mode (Arcade, Survive, Story(Coming Soon))
+- Change Joystick Mode (Left/Right Hand)
+- Explotion and Shaking Effects
+- Glow in the dark Art.
+
+
+version 0.454 https://www.dropbox.com/s/ufm0d1xjeeduoak/com.rioriogue.rifana.apk?dl=0

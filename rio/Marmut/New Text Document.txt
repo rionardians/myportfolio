@@ -1,0 +1,6 @@
+Tap the key to play instruments.
+Angklung and Kendang are the instrument you can play in this game.
+Play the instruemnts randomly, or play the instruments in game mode.
+in game mode you have to play the instruments sincronizely with the beat of a song (like guitar hero).
+
+This game made for a PKM-KC competiotion.

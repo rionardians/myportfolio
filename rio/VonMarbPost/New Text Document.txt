@@ -1,0 +1,5 @@
+Just a simple yet stupid game about balls.
+Fill the basket with blue balls to win.
+Made for a Dicoding Class.
+version 0.9
+https://www.dropbox.com/s/y5xfagmqg5r442e/com.rioriogue.vonmarbles.apk?dl=0
