@@ -2197,3 +2197,10 @@
   overflow: visible;
   clip: auto;
 }
+
+.pixelify-sans-<uniquifier> {
+  font-family: "Pixelify Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
